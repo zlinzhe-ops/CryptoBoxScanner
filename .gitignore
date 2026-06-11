@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Output data
+output/*.json
+
+# IDE
+.vscode/
+.idea/
+
+# Temp/test files
+_test_*.py
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
